@@ -1,5 +1,5 @@
 # 💫 About Me:
-Driven and meticulous BTech student specializing in Computer Science <br>and Engineering, with a solid grounding in programming languages <br>and a passion for technology.
+Driven and meticulous BTech student specializing in Computer Science <br>and Engineering, with a solid grounding in programming languages <br>and a passion for technology!
 
 
 ## 🌐 Socials:
